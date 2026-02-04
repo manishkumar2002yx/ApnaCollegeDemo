@@ -1,4 +1,4 @@
 # ApnaCollegeDemo
 This is my First Git Repositories
 <br>
-Author : Manish Kumar
+Author : Manish (Apna College)
